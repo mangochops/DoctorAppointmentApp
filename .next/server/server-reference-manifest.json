@@ -1,0 +1,86 @@
+{
+  "node": {
+    "127afc3d62af91bb5e133d5c08c723ad0e62aaf0": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    },
+    "1dab398951d7947d6db3d616a1c4efb948f35474": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    },
+    "3204b1f981421930cd6e75f65f4bd8bdb125c8e2": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    },
+    "3fe1dc5e5d886b80aa3cdcd761921056300828c3": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    },
+    "5a0e7faafc87cfe5b62a96e449d2d0ac122481af": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    },
+    "61b75c288bd35bf2f9443f24340db603beb53466": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    },
+    "9304233aef6c08cac270e4eb05208be52e1f6771": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    },
+    "c3984b1b2344480945db65191dbb9e9c49196c69": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    },
+    "d4a1a9b1ce51caa3edc484db19ee7427d4dff229": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    },
+    "fcb3d7bcf8c88be7a3fc700eedcbdfc21277bc8a": {
+      "workers": {
+        "app/admin/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fwangui%2FHealthCare%2Fhealthcare%2Flib%2Factions%2Fappointment.actions.ts%22%2C%5B%22%24%24ACTION_3%22%2C%22%24%24ACTION_1%22%2C%22createAppointment%22%2C%22updateAppointment%22%2C%22%24%24ACTION_0%22%2C%22sendSMSNotification%22%2C%22getRecentAppointmentList%22%2C%22%24%24ACTION_4%22%2C%22%24%24ACTION_2%22%2C%22getAppointment%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/page": "rsc"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "GrJhFpMfYJxc7+EWCmKUsEBs7ob+mIyhPPJ0o7J8CGk="
+}
